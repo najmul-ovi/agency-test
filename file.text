@@ -1,0 +1,103 @@
+<section>
+      <div class="container" style="display: flex; gap: 20px">
+        <div class="col-md-5 col-sm-12 container">
+          <div style="margin-bottom: 20px">
+            <div
+              style="
+                border-radius: 12px;
+                background-color: black;
+                cursor: pointer;
+                position: relative;
+                padding: 10px;
+                color: aliceblue;
+              "
+            >
+              <p style="text-align: center">Lorem, ipsum dolor.</p>
+            </div>
+            <div style="display: flex; justify-content: end">
+              <img
+                style="
+                  height: 40px;
+                  width: 40px;
+                  background-color: #58db58;
+                  border-radius: 50%;
+                  border: 4px solid #f1f1f1;
+                  position: absolute;
+                  margin-top: -20px;
+                "
+                src="./img/payment/seetings.png"
+                alt=""
+              />
+            </div>
+          </div>
+          <div>
+            <div>
+              <p>Lorem, ipsum dolor.</p>
+            </div>
+            <div>icon</div>
+          </div>
+          <div>
+            <div>
+              <p>Lorem, ipsum dolor.</p>
+            </div>
+            <div>icon</div>
+          </div>
+          <div>
+            <div>
+              <p>Lorem, ipsum dolor.</p>
+            </div>
+            <div>icon</div>
+          </div>
+        </div>
+        <div class="col-md-7 col-sm-12 container">
+          <h1>I love you everything</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Consequuntur voluptate molestiae possimus ea porro dolor libero
+            magni ab corrupti nostrum, repudiandae voluptatem sapiente eum
+            consequatur magnam ipsa expedita illum cum.
+          </p>
+          <div style="display: flex">
+            <div style="display: flex">
+              <div
+                style="
+                  height: 30px;
+                  width: 30px;
+                  background-color: #10d110;
+                  margin-right: 8px;
+                "
+              ></div>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
+                aspernatur amet reprehenderit. Quas, alias ea eum quo tenetur
+                ab.
+              </p>
+            </div>
+            <div>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
+                aspernatur amet reprehenderit. Quas, alias ea eum quo tenetur
+                ab.
+              </p>
+            </div>
+          </div>
+
+          <div style="display: flex">
+            <div>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
+                aspernatur amet reprehenderit. Quas, alias ea eum quo tenetur
+                ab.
+              </p>
+            </div>
+            <div>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
+                aspernatur amet reprehenderit. Quas, alias ea eum quo tenetur
+                ab.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
